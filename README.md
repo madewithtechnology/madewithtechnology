@@ -3,20 +3,18 @@
 
 ## 👋 Hi | Salut | ¡Hola! 👋
 
-### 🤝 Follow me | Suis-moi! | ¡Sígueme! 🤝 
+### 🤝 Follow me | Suivez-moi! | ¡Síguame! 🤝 
 
 <a href="https://instagram.com/madewithtechnology"><img align="left" src="https://raw.githubusercontent.com/madewithtechnology/madewithtechnology/main/images/instagram-icon.svg" alt="MWT | Instagram" width="35px"/></a>
 
-<a href="madewithtechnology@gmail.com"><img align="left" src="https://raw.githubusercontent.com/madewithtechnology/madewithtechnology/main/images/email-icon.svg" alt="MWT | Email" width="40px"/></a>
-
 <a href="https://twitter.com/madewithtechno"><img align="left" src="https://raw.githubusercontent.com/madewithtechnology/madewithtechnology/main/images/twitter-icon.svg" alt="MWT | Email" width="40px"/></a>
 
+</br>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 - 💬 Si vous avez des questions/commentaires, n'hésitez pas à me contacter !
 - 💬 Si tiene alguna pregunta/comentario, ¡no dude en comunicarse conmigo!
-
 
 ### 💼 Technical Skills | Compétences techniques | Habilidades técnicas 💼 
 
